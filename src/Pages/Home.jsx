@@ -1,10 +1,9 @@
 import React from 'react'
-import Provider from '../Componets/Parallax1/Provider'
 
 const Home = () => {
   return (
     <>
-    {/* <Provider/> */}
+      <h1>Home page</h1>
     </>
   )
 }
